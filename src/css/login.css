@@ -60,7 +60,7 @@ input {
   width: 200px;
   margin:auto;
   display: flex;
-  color: white;
+  color: white; 
 }
 .title-container h1 {
   margin-left: 16px;
